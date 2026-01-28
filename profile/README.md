@@ -1,4 +1,4 @@
-# 🚀 MC-ServerToolkit
+# 🚀 ToolkitMC
 
 Minecraft server yöneticileri ve datapack geliştiricileri için
 **modern, hafif ve açık kaynak araçlar**.
@@ -6,7 +6,7 @@ Minecraft server yöneticileri ve datapack geliştiricileri için
 <br>
 
 ## 📦 Projeler
-- 🧰 **MC-ServerToolkit-PP**  
+- 🧰 **mc-servert-oolkit**  
   Sunucu yönetimini kolaylaştıran gelişmiş datapack paketi
 
 <br>
