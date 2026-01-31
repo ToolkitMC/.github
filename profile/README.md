@@ -6,7 +6,9 @@ Minecraft server yöneticileri ve datapack geliştiricileri için
 <br>
 
 ## 📦 Projeler
-- 🧰 **mc-servert-oolkit**  
+- **mc-servert-oolkit**
+- **GulceEconomy**
+   **GulceOS**
   Sunucu yönetimini kolaylaştıran gelişmiş datapack paketi
 
 <br>
