@@ -7,8 +7,8 @@ Minecraft server yöneticileri ve datapack geliştiricileri için
 
 ## 📦 Projeler
 - **mc-servert-toolkit**
-- **GulceEconomy**
--  **GulceOS**
+- **macroEngine-dp**
+-  **Gulce_AdminPower**
 <br>
   Sunucu yönetimini kolaylaştıran gelişmiş datapack paketi
 
