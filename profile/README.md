@@ -9,6 +9,8 @@ Minecraft server yöneticileri ve datapack geliştiricileri için
 - **mc-servert-toolkit**
 - **macroEngine-dp**
 -  **Gulce_AdminPower**
+-  **.GCS**
+-  **GulceOS-dp**
 <br>
   Sunucu yönetimini kolaylaştıran gelişmiş datapack paketi
 
